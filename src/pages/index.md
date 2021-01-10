@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: This is my Page
+title: Nice to meet you!
 image: /img/home-jumbotron.jpg
 heading: About this page
 subheading: A page about me learning how to use this
