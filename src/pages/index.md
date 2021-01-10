@@ -1,42 +1,37 @@
 ---
 templateKey: index-page
-title: Nice to meet you!
-image: /img/home-jumbotron.jpg
-heading: About this page
-subheading: A page about me learning how to use this
+title: Laura Vikanis
+image: /img/Headerimage.jpg
+heading: About Me
+subheading: Off to a bright and digital future
 mainpitch:
   title: How to CMS
   description: Lorem Ipsum is  dolor est.
-description: blablabla descrption
+description: From Print Media Designer to Web Developer. Why? Because the future is digital and getting faster all the time. Without the leap into the digital realm, we will stand still - progress instead of stagnation. For me, things no longer "just" have to look good, but also have to function flawlessly. Still far from finished with the journey into the future, I now know how to use technology to make my digital dreams come true.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        For 3 Months starting in October 2020 I participated in a web developer bootcamp with neue fische. I am now hoping to find a place i can deepen my newly  acquired skills continue to work on my coding skills and add some more languages to my skills.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        I am a trained media designer and have been around in the industry for
+          eight years. Before i started working full time as a graphic designer
+          I trained as a "Mediengestalter for three years. In my spare time, i
+          design posters for a local theatre and manage their social media
+          accounts.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        I love accumulating new knowledge and learning new things. Currently,
+          I am teaching myself how to code. My current goal is to learn how to
+          develop beautiful websites and code them by myself. My curriculum
+          includes the following languages: HTML, CSS and Javascript..
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Apart from working a lot on my computer, I love nature. In my spare
+         time, I like to collect houseplants and propagate the ones I already
+         own. My favourite plant is my fiddle leave-fig, but I love all my
+         green babies..
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
