@@ -10,23 +10,21 @@ mainpitch:
 description: From Print Media Designer to Web Developer. Why? Because the future is digital and getting faster all the time. Without the leap into the digital realm, we will stand still - progress instead of stagnation. For me, things no longer "just" have to look good, but also have to function flawlessly. Still far from finished with the journey into the future, I now know how to use technology to make my digital dreams come true.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/undraw_proud_coder_7ain.png
       text: >
         For 3 Months starting in October 2020 I participated in a web developer bootcamp with neue fische. I am now hoping to find a place i can deepen my newly  acquired skills continue to work on my coding skills and add some more languages to my skills.
-    - image: /img/coffee-gear.png
+    - image: /img/undraw_add_color_19gv.png
       text: >
         I am a trained media designer and have been around in the industry for
           eight years. Before i started working full time as a graphic designer
           I trained as a "Mediengestalter for three years. In my spare time, i
           design posters for a local theatre and manage their social media
           accounts.
-    - image: /img/tutorials.png
+    - image: /img/undraw_listening_1u79.png
       text: >
-        I love accumulating new knowledge and learning new things. Currently,
-          I am teaching myself how to code. My current goal is to learn how to
-          develop beautiful websites and code them by myself. My curriculum
-          includes the following languages: HTML, CSS and Javascript..
-    - image: /img/meeting-space.png
+        I have always been interested in music. Whether it's a classical symphony or a modern production - I refuse almost nothing. I can't compose and write myself (yet). But it gives me a lot of pleasure to create playlists for every occasion and I can talk for hours about the latest discoveries. Here you can find my Spotify profile. Apart from creating digital playlists, I collect vinyl, i.e. records, and I'm a real concert junkie.
+
+    - image: /img/undraw_flowers_vx06.png
       text: >
         Apart from working a lot on my computer, I love nature. In my spare
          time, I like to collect houseplants and propagate the ones I already
